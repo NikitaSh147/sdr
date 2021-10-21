@@ -51,3 +51,17 @@ p {
    
   }
 }
+
+@media all and (max-width: 450px) {
+  .container {
+    height: 1200px;
+   
+  }
+}
+
+@media all and (max-width: 390px) {
+  .container {
+    height: 1400px;
+   
+  }
+}
